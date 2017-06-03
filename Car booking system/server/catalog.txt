@@ -1,0 +1,7 @@
+s1,honda,fitz,2014,15,in
+
+s2,mazda,6series,2015,20,out
+
+e3,bmw,6series,2016,10,in
+
+e4,lexus,diablo,2016,35,out
